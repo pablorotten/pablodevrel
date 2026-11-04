@@ -13,7 +13,7 @@ header:
     link: https://www.linkedin.com/in/pablo-antonio-rodriguez-rubio
 ---
 
-Highly technical Software Engineer with over 10 years of experience specializing in Scala, distributed systems, and DevOps. Proven track record in building reactive, asynchronous applications and streamlining delivery through automated CI/CD pipelines.
+Software Engineer with over 10 years of experience specializing in Scala, distributed systems, and DevOps. Builds reactive, asynchronous applications and streamlines delivery through automated CI/CD pipelines.
 
 ## Experience
 
@@ -35,7 +35,7 @@ Highly technical Software Engineer with over 10 years of experience specializing
 - **Data Visualization:** Enhanced a specialized tool capable of handling and visualizing datasets exceeding hundreds of thousands of data points.
 - **System Design:** Architected a tool to support remote asynchronous connections between distributed nodes.
 - **Deployment Automation:** Automated software installation processes and dependency management across various Linux distributions.
-- **Full-Stack Stack:** Leveraged a diverse stack including Scala, Akka, Java, Spring, Hibernate, and Knockoutjs.
+- **Full-Stack Work:** Built across a diverse stack including Scala, Akka, Java, Spring, Hibernate, and Knockoutjs.
 
 **Freelance Software Developer**
   ~ Granada, Spain
@@ -50,7 +50,7 @@ Highly technical Software Engineer with over 10 years of experience specializing
   ~ 2016 - 2016
 
 - **Data Modeling:** Developed a fuzzy model to enhance user profiles in microblogging sites using deep relations.
-- **Implementation:** Utilized Java, JSP, and MySQL for robust data modeling and backend implementation.
+- **Implementation:** Built data models and backend services in Java, JSP, and MySQL.
 
 ## Education
 

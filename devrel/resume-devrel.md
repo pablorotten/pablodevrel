@@ -98,7 +98,7 @@ B.Eng. in Computer Engineering
 
 [~P8]: **Technical Documentation & Learning Resources**
     *Educational Content Creation & Knowledge Sharing*
-    - Comprehensive documentation of technologies and frameworks I used in my work and projects.
+    - Documentation of technologies and frameworks I used in my work and projects.
     - **React:** React documentation with Vite and Tailwind CSS integration guides
       ([Vite + React + Tailwind](https://github.com/pablorotten/vite-react-tailwind) | [Learning React Guide](https://github.com/pablorotten/vite-react-tailwind/blob/main/Learning-React.md))
     - **Scala:** Documented advanced Scala concepts and Akka framework fundamentals for distributed systems
