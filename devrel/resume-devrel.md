@@ -1,0 +1,133 @@
+---
+name: Pablo Antonio Rodriguez Rubio
+header:
+  - text: |
+      <span style="font-size: 1.2em; font-weight: bold;"> DevRel ▪️ Solutions Engineer ▪️ Developer </span>
+---
+
+<p class="resume-contact">
+  <span class="iconify" data-icon="flat-color-icons:phone"></span> +32 476062894 |
+  <a href="mailto:pabloantoniorodriguezrubio@gmail.com"><span class="iconify" data-icon="fluent-color:mail-16"></span> pabloantoniorodriguezrubio@gmail.com</a> |
+  <a href="https://pablodevrel.com"><span class="iconify" data-icon="flat-color-icons:globe"></span> pablodevrel.com</a>
+</p>
+
+
+## Experience
+
+**Solutions Engineer / Software Engineer**
+  ~ N-SIDE
+  ~ 2021 - 2026
+
+*SaaS platform optimizing complex clinical trials for pharmaceutical companies. Led a new API product branch from conception to production. Split 50/50 between solutions engineering (customer-facing product adoption) and development (building the API platform).*
+
+- **Customer Discovery:** Engaged directly with customers, technical users, and power users to understand their integration needs, workflows, and pain points, translating them into concrete product capabilities - designed and delivered ~20 API endpoints covering a wide range of use cases.
+- **Data Extraction Product:** Extended API usage to internal teams for bulk data extraction (faster than manual UI workflows), then identified the same capability as a sellable product - customers could access their own historic supply chain data (shipments, CO2 emissions, trial duration, etc.) directly via the API. Launched a new profitable business line for the company.
+- **PoC to Production:** Started from a Proof of Concept for a key client and iterated into a full working product now adopted by all existing accounts - integrated 5 new customers after initial launch.
+- **Guided Adoption & Support:** Guided clients through integration with screencasts and hands-on support, answered technical emails covering problems, questions, and feature suggestions - significantly reducing integration friction and the volume of support requests.
+- **Content creation:** Wrote all external documentation on how to use the API, produced video tutorials and demos, and presented new features to customers and the wider community - increasing API usage and cutting the number of technical support emails.
+- **Developer Experience:** Started as a developer on the main web application, building features for clinical trial optimization. Pivoted to building the API infrastructure on the **TYK** gateway, designing internal documentation, and creating automation workflows.
+
+**Software Engineer**
+  ~ Noesis Solutions
+  ~ 2017 - 2021
+
+*Cloud-native collaborative platform transforming legacy desktop simulation workflows into web-based engineering solutions.*
+- **Data Visualization:** Engineered complex data visualization dashboards almost from scratch using Java Web Toolkit (JwT), enabling engineers to interactively analyze and render large-scale engineering datasets with hundreds of thousands of data points.
+- **Knowledge Sharing:** Created detailed internal documentation mapping out data sources, database extraction logic, and charting mechanics, successfully onboarding other developers and streamlining future dashboard iterations.
+
+**Freelance Software Developer**
+  ~ Remote / Granada, Spain
+  ~ 2015 - 2017
+
+- **Mobile Development:** Developed cross-platform mobile applications for iOS and Android from scratch using the Ionic framework.
+
+**Software Engineer (Research & Development)**
+  ~ Universidad De Granada (DECSAI)
+  ~ 2015 - 2016
+
+- Joined the Department of Computer Science and Artificial Intelligence to develop a fuzzy model to enhance user profiles in microblogging sites using deep relations.
+
+\newpage
+
+## Education
+
+**Universidad de Granada**
+  ~ Granada, Spain
+
+B.Eng. in Computer Engineering
+  ~ 2010 - 2015
+- **Final Project:** Developed a complete real-time bus tracking system, including the Hybrid Android/iOS mobile applications and supporting backend infrastructure.
+
+## Personal Projects: [pablodevrel.com](https://pablodevrel.com)
+
+[~P1]: **Tabnas: How to define a grammar**
+    *Technical Content & Critical Review*
+    - Gave an executable RFC 5234 ABNF grammar to the Abaqus/CalculiX `.inp` file format - a format everyone can read but nobody has a grammar for - and shipped validation, keyword inspection and JSON export that all run from that one grammar file.
+    - [<span class="iconify" data-icon="ph:dev-to-logo-fill"></span> dev.to article](https://dev.to/pablodevrel/tabnas-how-to-define-a-grammar-243i)
+
+[~P2]: **Your API needs a ❤️ Best Friend Forever ❤️**
+    *Technical Content*
+    - Explained the difference between an API gateway and a BFF, and why product logic belongs behind the gateway, not in Tyk virtual endpoints.
+    - [🎥 YouTube video](https://www.youtube.com/watch?v=d8GkpmMJqsI)
+
+[~P3]: **So... Vercel doesn't have built-in email?**
+    *Technical Content, Tutorial & Short*
+    - Wrote a step-by-step tutorial on setting up a professional email address for a Vercel-hosted domain using Amelu's free tier, with IMAP/SMTP support.
+    - [<span class="iconify" data-icon="ph:dev-to-logo-fill"></span> dev.to article](https://dev.to/pablodevrel/so-vercel-doesnt-have-built-in-email-2dpd) | [<span class="iconify" data-icon="logos:linkedin"></span> LinkedIn short](https://www.linkedin.com/posts/pablo-antonio-rodriguez-rubio_vercel-email-devrel-ugcPost-7496207571498905600-7t-N/)
+
+[~P4]: **PearNote: Real-Time Sync Without a Backend**
+    *Technical Content & Demo*
+    - Built a real-time collaborative sticky notes app with no server - two phones syncing peer-to-peer via the [Holepunch](https://holepunch.to/) stack.
+    - [🎥 YouTube video](https://www.youtube.com/watch?v=B8783WSrCjI) | [Link to GitHub Repository](https://github.com/pablorotten/PearNote)
+
+[~P5]: **Pridianum: WWII Interactive Map**
+    *Video Demo & Storytelling*
+    - Created a video demo telling a story through [Pridianum](https://pridianum.xyz/), an interactive WWII map.
+    - [🌐 Website](https://pridianum.xyz/) | [<span class="iconify" data-icon="skill-icons:instagram"></span> Instagram reel](https://www.instagram.com/reel/DZN5QjpuKfZ/)
+
+[~P6]: **Beyond the Bytecode: Solving OWASP UnCrackable L1 with Guardsquare Tools**
+    *Technical Video & Documentation*
+    - Created a step-by-step guide on bypassing root detection and decrypting AES-256 secrets in Android apps using `ProGuard Assembler`.
+    - [🎥 YouTube video](https://www.youtube.com/watch?v=mUKR67VA0Lg) | [Link to GitHub Repository](https://github.com/pablorotten/GuardSquare-devrel-project)
+
+[~P7]: **Movie Kombat: React + TypeScript Tournament App**
+    *Full-Stack Web Development & API Integration*
+    - Built an interactive movie bracket app using **React, TypeScript, and Tailwind CSS v4**.
+    - Integrated third-party API [TMDB](https://developer.themoviedb.org/docs/getting-started) for movie search and platforms availability.
+    - [Link to GitHub Repository](https://github.com/pablorotten/movie-kombat) | [Live App](https://moviekombat.app/) | [🎥 Promo video](https://youtube.com/shorts/OPYjPb3ffrs?feature=share) | [<span class="iconify" data-icon="logos:linkedin"></span> post](https://www.linkedin.com/posts/pablo-antonio-rodriguez-rubio_sideproject-activity-7462103830365900800-YTVn?utm_source=share&utm_medium=member_desktop&rcm=ACoAADUa0hwB06eAXuLcZS24G6hAF7MsJupSDnM)
+
+[~P8]: **Technical Documentation & Learning Resources**
+    *Educational Content Creation & Knowledge Sharing*
+    - Comprehensive documentation of technologies and frameworks I used in my work and projects.
+    - **React:** React documentation with Vite and Tailwind CSS integration guides
+      ([Vite + React + Tailwind](https://github.com/pablorotten/vite-react-tailwind) | [Learning React Guide](https://github.com/pablorotten/vite-react-tailwind/blob/main/Learning-React.md))
+    - **Scala:** Documented advanced Scala concepts and Akka framework fundamentals for distributed systems
+      ([Rock the JVM - Scala](https://github.com/pablorotten/rock-the-jvm-scala-beginners) | [Akka Essentials](https://github.com/pablorotten/akka-essentials))
+    - **Java & ORM:** Technical notes on Hibernate framework covering entity mapping, transactions, and best practices
+      ([Hibernate Course](https://github.com/pablorotten/hibernate-course))
+
+## Skills
+
+**Technical Stack:** 
+<span class="iconify" data-icon="logos:scala"></span> Scala
+<span class="iconify" data-icon="devicon:akka"></span> Akka
+<span class="iconify" data-icon="logos:java"></span> Java
+<span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaScript / TypeScript
+<span class="iconify" data-icon="logos:react"></span> React
+<span class="iconify" data-icon="logos:aws"></span> AWS
+<span class="iconify" data-icon="logos:gitlab"></span> CI/CD
+
+
+**Content & Creative:** 
+<span class="iconify" data-icon="hugeicons:capcut-rectangle"></span> CapCut
+<span class="iconify" data-icon="simple-icons:obsstudio"></span> OBS Studio
+<span class="iconify" data-icon="simple-icons:synfigstudio"></span> Synfig
+<span class="iconify" data-icon="simple-icons:affinity"></span> Affinity
+<span class="iconify" data-icon="simple-icons:confluence"></span> Confluence
+
+
+**Languages:** 
+<span class="iconify" data-icon="openmoji:flag-spain"></span> Spanish (Native)
+<span class="iconify" data-icon="openmoji:flag-united-kingdom"></span> English (Full Professional)
+<span class="iconify" data-icon="openmoji:flag-france"></span> French (Professional)
+<span class="iconify" data-icon="openmoji:flag-netherlands"></span> Dutch (Elementary)
