@@ -421,6 +421,10 @@ main {
     height: 620px;
 }
 
+.embed-container iframe[src*="youtube.com"] {
+    height: 620px;
+}
+
 .timeline-link {
     display: inline-flex;
     align-items: center;
