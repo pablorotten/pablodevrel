@@ -20,11 +20,11 @@ header:
 
 *SaaS platform optimizing complex clinical trials for pharmaceutical companies. Led a new API product branch from conception to production. Split 50/50 between solutions engineering (customer-facing product adoption) and development (building the API platform).*
 
-- **Customer Discovery:** Engaged directly with customers, technical users, and power users to understand their integration needs, workflows, and pain points, translating them into concrete product capabilities - designed and delivered ~20 API endpoints covering a wide range of use cases.
+- **Customer Discovery:** Engaged directly with customers, technical users, and power users to understand their integration needs, workflows, and pain points, translating them into concrete product capabilities - designed and delivered ~50 API endpoints covering a wide range of use cases.
 - **Data Extraction Product:** Extended API usage to internal teams for bulk data extraction (faster than manual UI workflows), then identified the same capability as a sellable product - customers could access their own historic supply chain data (shipments, CO2 emissions, trial duration, etc.) directly via the API. Launched a new profitable business line for the company.
 - **PoC to Production:** Started from a Proof of Concept for a key client and iterated into a full working product now adopted by all existing accounts - integrated 5 new customers after initial launch.
 - **Guided Adoption & Support:** Guided clients through integration with screencasts and hands-on support, answered technical emails covering problems, questions, and feature suggestions - significantly reducing integration friction and the volume of support requests.
-- **Content creation:** Wrote all external documentation on how to use the API, produced video tutorials and demos, and presented new features to customers and the wider community - increasing API usage and cutting the number of technical support emails.
+- **Content creation:** Wrote all external documentation on how to use the API, produced video tutorials and demos, and presented new features to customers and the wider community - increasing API usage and cutting the number of technical support tickets.
 - **Developer Experience:** Started as a developer on the main web application, building features for clinical trial optimization. Pivoted to building the API infrastructure on the **TYK** gateway, designing internal documentation, and creating automation workflows.
 
 **Software Engineer**
